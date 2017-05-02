@@ -41,7 +41,7 @@ If you want a precomposed icon with the rounded corners:
 
 ### Script Instructions
 
-You may need to edit the path to your Inkscape binary for this to work.
+You may need to edit the path to your Inkscape binary for this to work. (http://wiki.inkscape.org/wiki/index.php/Mac_OS_X)
 
 ```sh
 ./resize.sh AppIconTemplate.svg
